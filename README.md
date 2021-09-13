@@ -6,7 +6,7 @@
 [rimworld-version]: https://img.shields.io/badge/RimWorld-v1.0.2282-%23f7941e.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAQAAAD8x0bcAAAA10lEQVR4AZXSgUYDQBjA8dsTbIEaNLQoYOwFBhJEZj3BgBjY3mGoeogVLaCep6HaBgMowNqvOB9ngv2AO3/nc3dpZ/Z0DFzrqP0fHJgqPdnfTo4sZGtr2cJxmdQthRevwqd6Ch4RzpwjPERStRHeVFR8CBvVHHWxMdbXdZL+ONXVN7bBVY6GYKaRChpmYJiXI9lKKxItK9kob/SEm4jcCr3twS9S0tZOyWUxeGYiq7v3Y+3OoWyyfZlf5sLcN5bKp9EsgvCumbKg7llpWp5SUNMxMIivspNfip5GeevTmlUAAAAASUVORK5CYII=
 [license-mit]: https://img.shields.io/github/license/RimWorld-zh/RimTrans.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAQAAAD8x0bcAAAAsUlEQVR4AaXOgQbCUBSH8ZNKgWB7gMCMSCABEBGg0BsEwID0GmkIKBECWICAQA9QAioIKBM0GV+Xi1D3in78gY9z5C/4BPj2pMMT1Lq2KEKLzEmbC9rE9Msa2HAgYUFJ3sjRoIxLSMqRnnyiwgl4EHNnQEG+YYm2xxXFHu1wRDOeuxKr9cmYsjw1sjiMSdlSFTt8VqSMCLkxo2gOm5zRhmLGFG1ui+okoNYSGzwCPPndC3RGn6EAs8fYAAAAAElFTkSuQmCC
 
-[![RimTrans-version]](https://github.com/RimWorld-zh/RimTrans/releases)
-[![RimTrans-downloads]](https://github.com/RimWorld-zh/RimTrans/releases)
+[![RimTrans-version]](https://github.com/Aironsoft/RimTrans-0.21.9.1/releases)
+[![RimTrans-downloads]](https://github.com/Aironsoft/RimTrans-0.21.9.1/releases)
 [![RimWorld-version]](https://RimWorldgame.com/)
-[![license-mit]](https://github.com/RimWorld-zh/RimTrans/blob/master/LICENSE)
+[![license-mit]](https://github.com/Aironsoft/RimTrans-0.21.9.13/blob/main/LICENSE)
